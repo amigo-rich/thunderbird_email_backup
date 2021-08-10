@@ -1,5 +1,4 @@
 Thunderbird email backup 0.1
-Richard Bradshaw
 Easily back up the email in a thunderbird profile folder
 
 USAGE:
